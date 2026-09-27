@@ -1,0 +1,6 @@
+{
+  "name": "LAST RUN",
+  "description": "Jogo de corrida infinita 2D mobile de alta velocidade com obstáculos dinâmicos, coleta de moedas, progressão de dificuldade, loja de skins e recordes locais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
